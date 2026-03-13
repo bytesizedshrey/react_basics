@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: black;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: rgb(115, 157, 194);
+  background-color: transparent;
+}
+#hero{
+  height: 200px;
+  width: 400px;
+  background-color: blue;
+}
+.herione{
+  margin-top: 30px;
+  padding: 60px;
+  height: 200px;
+  width: 400px;
+  background-color: rgb(64, 0, 255);
+}
